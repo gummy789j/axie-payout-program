@@ -1,0 +1,14 @@
+{
+    "AcademyPayoutAddress": "{AcademyPayoutAddress}",
+    "Scholars":[
+        {
+            "Name": "[Name]",
+            "PrivateKey": "0x{PrivateKey}",
+            "AccountAddress": "{AccountAddress}",
+            "AcademyPayoutAddress": "{AcademyPayoutAddress}",
+            "ScholarPayoutAddress": "{ScholarPayoutAddress}",
+            "ScholarPayoutPercentage": 0.50,
+            "ScholarPayoutPercentage_description": "[Name] 50%"
+        }
+    ]
+}

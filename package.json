@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "axie-payout-program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.5.4",
+    "node-fetch": "^3.2.0",
+    "web3": "^1.7.0"
+  }
+}
