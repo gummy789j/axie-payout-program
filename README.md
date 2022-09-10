@@ -31,4 +31,3 @@ $ npm install
 $ node main.js
 ```
 
-Test
